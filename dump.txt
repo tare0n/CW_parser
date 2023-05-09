@@ -1,0 +1,100 @@
+title: Кофакс Senior Software Engineer Python, C++, .NET- Epesoft (to Montenegro)
+description: Опыт создании продуктов под облачные сервисы (особенно Microsoft Azure). Опыт работы с <highlighttext>python</highlighttext> services. Разговорный английский и хорошие коммуникационные навыки. Участие в создании новых и поддержке старых версий ключевого для компании продукта. Участие в создании архитектуры и design документации для...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=73975612
+salary: on
+title: Тинькофф Аналитик данных (клиентский опыт)
+description: Знание основ математической статистики и теории вероятности. Опыт в построении информативных визуализаций данных в системах визуализации (Tableau). Знание <highlighttext>Python</highlighttext> и... Анализировать изменения (что, почему и как повлияло на клиентов). Искать и анализировать проблемы клиентов, находить точки роста. Выдвигать гипотезы, проводить...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=70368551
+salary: on
+title: Lesta Games DevOps Engineer
+description: Понимание принципов CI/CD (Jenkins/ GitLab). Опыт написания скриптов на bash/<highlighttext>Python</highlighttext>. Опыт работы с PostgreSQL или MySQL.  Поддержка, обновление и оптимизация наших web приложений. Автоматизация и улучшение текущего CI/CD. Работа с системами контейнеризации, в том числе...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=72235907
+salary: on
+title: Тинькофф ML-инженер
+description: Глубокое понимание принципов работы современных алгоритмов машинного обучения. Высокий уровень знания <highlighttext>Python</highlighttext>. Умение декомпозировать задачу в переиспользуемые и тестируемые библиотеки... Диалоговые системы. Обучаем финансового ассистента поддерживать разговор и отвечать на запросы пользователей в чате с поддержкой. Компьютерное зрение. 
+link: https://hh.ru/applicant/vacancy_response?vacancyId=77923306
+salary: on
+title: билайн Системный администратор (VMware)
+description: Опыт написания скриптов на PowerShell и <highlighttext>Python</highlighttext>. Базовые знания по T-SQL. Опыт работы с RESTful API. Базовые знания Linux.  Осуществлять автоматизацию процессов. Помогать в интеграции с другими сервисами и продуктами. Написание структурированной документации по автоматизации. Оптимизировать текущие процессы автоматизации.
+link: https://hh.ru/applicant/vacancy_response?vacancyId=80070421
+salary: on
+title: Крауд QA Automation Engineer
+description: Опыт работы от 1 года по специальности. Рациональное и последовательное мышление, пунктуальность, вежливость. Понимание процессов тестирования, желание развиваться в этом... Контролировать и обеспечивать качество web и мобильных приложений. Писать автотесты. Участвовать в развитии тестирования на проекте. Внедрять новые инструменты и...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79215725
+salary: on
+title: WSS-Consulting Инженер технической поддержки (удаленно)
+description: Навыки в одной из областей: SQL, C++/C#/Java/<highlighttext>Python</highlighttext>/JS, HTML/CSS. Знакомство с технологическим стэком Microsoft (Windows Server... Оказание технической поддержки по продукту WSS Docs (2,3 линии поддержки). Оказание консультаций пользователям продукта WSS Docs. Создание проектной документации...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79168742
+salary: on
+title: Агроплем Аналитик
+description: И. Скрябина). Дополнительным преимуществом будет: знание <highlighttext>Python</highlighttext> и SQL, опыт работы с программами управления стадом (SELEX, DairyComp305 и др.).  Работа по обработке заказов с помощью внутренних программ. Подготовка аналитических отчетов для лабораторий. Заполнение Битрикса и внутренних таблиц лабораторий. 
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79657881
+salary: on
+title: билайн Старший менеджер данных
+description: Системный подход в решении задач. Навыки создания аналитических презентаций. Уверенный SQL – must, <highlighttext>python</highlighttext> приветствуется. Страсть к автоматизации и внедрению инструментов. Управление регулярным процессом расчета бизнес-метрик и его оптимизация. Создание алгоритмов выявления отклонений в процессах продаж и обслуживания клиентов. 
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79782777
+salary: on
+title: Lesta Games C++ Developer
+description: Опыт разработки игр. Опыт работы от 3 лет. Знание <highlighttext>Python</highlighttext>. Умение разбираться в чужом коде. Опыт работы в mobile development. Разработка новый фичей для игрового проекта. Участие в планировании и проработке задач команды. Взаимодействие с другими командами по рабочим задачам.
+link: https://hh.ru/applicant/vacancy_response?vacancyId=73871240
+salary: on
+title: Faceplate Программист-разработчик (Middle)
+description: Вы должны уметь работать с репозиторием Git. Знание языков программирования для backend, таких как GoLang, <highlighttext>Python</highlighttext>, Java и особенно Erlang... None
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79601201
+salary: on
+title: Lesta Games QA Engineer (Infrastructure)
+description: Усидчивость, внимательность, ответственность, умение работать в команде, хорошие коммуникативные навыки. Готовность работать в офисе. Базовые знания <highlighttext>Python</highlighttext> или другого ЯП.  Тестирование задач и продуктов команды Infrastructure (разработка и актуализация тестовой документации, проведение тестирования, управление дефектами). Составление документации по продуктам команды...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79519711
+salary: on
+title: ISHONCH KREDIT SAVDO Дата-аналитик отдела управления данными и аналитикой
+description: Знание SQL на уровне получения и проверки данных; желательно <highlighttext>Python</highlighttext> на начальном уровне. Приветствуется опыт работы в Google Analytics и... Развитие и поддержка корпоративных инструментов аналитической отчетности BI. Создание инструментов для монетизации данных. Повышение эффективности бизнес-процессов Компании с помощью...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=80078069
+salary: on
+title: ВЕКАС Тестировщик ПО/QA Engineer (Automation+Manual)
+description: Опыт работы тестировщиком ПО от 1 года. Уверенные знания <highlighttext>Python</highlighttext> и JavaScript. Знание методов и методик тестирования. Опыт тестирования web... Обнаружение, документирование и отслеживание дефектов. Взаимодействие с разработчиками, аналитиками. Работа с автотестами - запуск, разбор падений, написание. Участие в проработке задач. 
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79525381
+salary: on
+title: Progressive Mind Senior DevOps инженер
+description: Опыт работы со Spark, HDFS - будет плюс. Знание скриптовых языков (Shell, <highlighttext>Python</highlighttext>, etc). Опыт работы с инструментами управления конфигурацией (Ansible... Развитие и оптимизация текущей инфраструктуры проекта. Автоматизация процессов развертывания систем, проектов и окружений. Мониторинг стабильности работы приложений, выявление узких мест...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79731852
+salary: on
+title: ТМХ ИНТЕЛЛЕКТУАЛЬНЫЕ СИСТЕМЫ Инженер-тестировщик
+description: Общее представление о языке программирования <highlighttext>Python</highlighttext>3 (понимание текста автотестов, умение распарсить логи файл и найти нужную информацию в программном... Ручное, инструментальное и автоматизированное тестирование целевых продуктов компании. Составление тестовых сценариев на основе входящей документации (ТЗ, ФТТ, КОФиК на ПО). 
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79735906
+salary: on
+title: X5 Tech Data engineer (интеграция с источниками)
+description: Умение писать на любом языке (<highlighttext>Python</highlighttext>, Groovy, Java и т.п.). Умение работать с Git в консоли. Опыт работы с... Разработка приложений загрузки данных. Валидация данных. Отладка потоков данных. Исправление ошибок загрузки данных.
+link: https://hh.ru/applicant/vacancy_response?vacancyId=78195446
+salary: on
+title: Lesta Games C++ Developer (Tools)
+description: Опыт работы в разработке desktop приложений. Знание <highlighttext>Python</highlighttext>. Опыт работы с Git, Jira, TeamCity. Опыт QT и CMake.  Участие в планировании и проработке задач команды. Участие в разработке редакторов 3D контента, редактора пользовательского интерфейса и сопутствующих технологий. 
+link: https://hh.ru/applicant/vacancy_response?vacancyId=73071900
+salary: on
+title: Skyeng Product Analyst
+description: Опыт работы продуктовым аналитиком от 3 лет. Хорошие знания SQL и <highlighttext>Python</highlighttext> (Pandas/Numpy/Matplotlib/Scipy). Знание математической статистики.  Развитие событийной аналитики внутри продукта, построение воронки событий. Поиск паттернов пользовательских сценариев, улучшение пользовательского опыта на базе аналитики. 
+link: https://hh.ru/applicant/vacancy_response?vacancyId=77330045
+salary: on
+title: МАГ Девелопмент DevOps Engineer
+description: Умение правильно приготовить Kubernetes - опыт работы с платформой от 2 лет. Хорошее знание GitLab CI и самого гита.  Установка и конфигурирование веб-серверов и серверов инфраструктуры разработки на платформе Kubernetes. Активное сопровождение процесса разработки ПО: работа с системой...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79598433
+salary: on
+title: inDrive Senior BI Engineer (Tableau)
+description: Знаешь и и есть опыт работы с SQL и реляционной логики. Знаешь <highlighttext>Python</highlighttext>. Есть опыт построения дашбордов (необходимо наличие портфолио... SQL - для запросов к СУБД, также для анализа и обработки данных, создания и обновления витрин. <highlighttext>Python</highlighttext> для анализа и обработки...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=77606426
+salary: on
+title: СтандартПроект QA Automation Engineer / автотестировщик
+description: Опыт работы. Selenium Webdriver / Playwright. Среда разработки - IntelliJ IDEA, или NetBeans, или Eclipse. Postman. Git, GitLab. SQL. PostgreSQL.  ФУНКЦИОНАЛ: Создание, поддержка, развитие автоматизированных тестов с применением Selenium Webdriver (<highlighttext>Python</highlighttext>, Java, С#) или Playwright на основе уже имеющихся чек...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=69767181
+salary: on
+title: inDrive System analyst (DWH)
+description: Уверенное владение SQL (join, оконные функции, CTE). Владение <highlighttext>Python</highlighttext> (pandas, numpy, requests, json). Опыт работы с Google Cloud, Airflow, системами... Сбор и согласование требований с заказчиком. Подготовка технических заданий на разработку функционала. Анализ систем источников и проектирование конвейров данных. 
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79612594
+salary: on
+title: СБЕР Аналитик данных
+description: Технические навыки: Продвинутый уровень SQL, <highlighttext>Python</highlighttext>, Spark, Pandas, Plotly. Опыт работы с Hadoop будет преимуществом. Понимание принципов корпоративных финансов на... Формирование. Аналитических дэшбордов согласно требованиям заказчика, с применением <highlighttext>Python</highlighttext>,Spark, Plotly. Поддержка текущих инструментов. Формирование предложения на доработку для последующего...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=80201907
+salary: on
+title: iFuture Duty devops engineer
+description: Опыт работы microservice-based архитектурой. Значительный опыт программирования на <highlighttext>python</highlighttext>. Хорошее знание bash. Уверенные навыки работы с linux, сетевыми протоколами.  Поддержка и развитие геораспределённой инфраструктуры: администрирование и деплой k8s кластеров; настройка и поддержка сети; внедрение и поддержка инфраструктурных...
+link: https://hh.ru/applicant/vacancy_response?vacancyId=79688817
+salary: on
