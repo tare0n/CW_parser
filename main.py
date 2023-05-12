@@ -22,9 +22,9 @@ def vac_list_by_keyword(keyword):
 
 def sort_vac_list(mode: str, vac_list):
     if mode == "sf":
-        vac_list.sort(key=lambda x: x['salary'][0])
+        vac_list.sort(key=lambda x: x['salary'][0] if x['salary'][0] else 0)
     elif mode == "st":
-        vac_list.sort(key=lambda x: x['salary'][1])
+        vac_list.sort(key=lambda x: x['salary'][1] if x['salary'][1] else 0)
     else:
         raise ValueError("Incorrect mode for sorting, use 'sf' or 'st'")
 
@@ -32,10 +32,10 @@ def sort_vac_list(mode: str, vac_list):
 def dump_to_file(filename, vacs):
     with open(filename, 'w+') as f:
         for vacancy in vacs:
-            f.write("title: " + vacancy['title'] + '\n'
-                    + "description: " + vacancy['description'] + '\n'
-                    + "link: " + vacancy['link'] + '\n'
-                    + "salary: " + vacancy['salary'] + '\n')
+            f.write("title: " + str(vacancy['title']) + '\n'
+                    + "description: " + str(vacancy['description']).replace('<highlighttext>', '').replace('</highlighttext>', '') + '\n'
+                    + "link: " + str(vacancy['link']) + '\n'
+                    + "salary: " + str(vacancy['salary']) + '\n')
 
 
 if __name__ == '__main__':
@@ -45,8 +45,8 @@ if __name__ == '__main__':
     sort_vac_list(input('Print criteria for sorting: '
                         'bottom range of salary (use "sf" marker)'
                         'or upper range of salary (use "st" marker)\n'), vac_list)
-    counter = input("How many vacancies you wanna see in file?")
+    counter = input("How many vacancies you wanna see in file?\n")
     vac_list.reverse()
-    dump_to_file(input("print name of file:"), vac_list[:int(counter)])
+    dump_to_file(input("print name of file:\n"), vac_list[:int(counter)])
 
 

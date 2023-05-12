@@ -62,8 +62,8 @@ class HH(Engine):
                                  'description': f"{full_dict['snippet']['requirement']} "
                                                 f"{full_dict['snippet']['responsibility']}",
                                  'link': full_dict['apply_alternate_url'],
-                                 'salary': (salary_trier(full_dict['salary']['from']),
-                                            salary_trier(full_dict['salary']['to']))})
+                                 'salary': (salary_trier(full_dict['salary']['from'] if full_dict['salary'] else 0),
+                                            salary_trier(full_dict['salary']['to'] if full_dict['salary'] else 0))})
         out_data = {'vacancies': vac_list, 'vac_number': len(vac_list), 'keyword': self._keyword}
         json_connector.insert(out_data)
 
